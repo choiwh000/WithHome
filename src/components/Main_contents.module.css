@@ -1,0 +1,44 @@
+.justOneDay {
+  width: 1280px;
+  display: flex;
+  margin: auto;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+#line {
+  width: 1px;
+  height: 152px;
+  border-left: 0.1px solid rgb(114, 114, 114);
+}
+
+.dec {
+  padding: 0px 30px;
+  color: #333;
+}
+
+.dec h1 {
+  font-size: 35px;
+  font-weight: 300;
+}
+
+.dec h1 span {
+  font-weight: bold;
+}
+
+.dec p {
+  font-size: 21px;
+  font-weight: 200;
+}
+
+.dec p span {
+    font-weight: bold;
+}
+
+#countdown {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 25px;
+}

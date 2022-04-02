@@ -1,0 +1,80 @@
+.main_3 {
+  width: 1280px;
+  height: 720px;
+  margin: auto;
+  margin-bottom: 100px;
+  color: #333;
+  font-weight: 300;
+  position: relative;
+  overflow: hidden;
+}
+
+.main_3_container {
+  display: flex;
+  width: 1280px;
+}
+
+.hash {
+  width: 300px;
+}
+
+.hash h1 {
+  font-size: 37px;
+  font-weight: bold;
+}
+
+.hash p {
+  font-size: 18px;
+  font-weight: 200;
+  margin-bottom: 20px;
+}
+
+.hash li > p {
+  border: 1px solid rgb(212, 212, 212);
+  font-size: 15px;
+  border-radius: 30px;
+  margin-bottom: 10px;
+  display: inline-block;
+  clear: both;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.main_3_slide {
+  display: flex;
+  gap: 30px;
+  width: 100%;
+  margin: auto;
+  margin-left: 100px;
+}
+
+.main_3_slide div {
+  flex: 0 0 auto;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+
+}
+
+.main_3_dot {
+  width: 600px;
+  margin: auto;
+  margin-top: 15px;
+  display: flex;
+  gap: 10px;
+}
+
+#one, #two, #three, #four {
+    cursor: pointer;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: rgb(133, 133, 133);
+}
+
+#gangjo {
+    cursor: pointer;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: #333;
+  }
