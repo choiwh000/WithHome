@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/withhome/static/css/main.1dc5c0d6.css",
-    "main.js": "/withhome/static/js/main.d8ccc87f.js",
+    "main.js": "/withhome/static/js/main.7fd20027.js",
     "static/media/main_01.jpg": "/withhome/static/media/main_01.9df664d8803c1ffc9a66.jpg",
     "static/media/justoneday2.png": "/withhome/static/media/justoneday2.c5c643a9a7e63336f8ca.png",
     "static/media/main_05.jpg": "/withhome/static/media/main_05.aa80de5ecc8fde8d2e55.jpg",
@@ -22,10 +22,10 @@
     "static/media/mds_005.jpg": "/withhome/static/media/mds_005.bc58226648de13e28608.jpg",
     "index.html": "/withhome/index.html",
     "main.1dc5c0d6.css.map": "/withhome/static/css/main.1dc5c0d6.css.map",
-    "main.d8ccc87f.js.map": "/withhome/static/js/main.d8ccc87f.js.map"
+    "main.7fd20027.js.map": "/withhome/static/js/main.7fd20027.js.map"
   },
   "entrypoints": [
     "static/css/main.1dc5c0d6.css",
-    "static/js/main.d8ccc87f.js"
+    "static/js/main.7fd20027.js"
   ]
 }
