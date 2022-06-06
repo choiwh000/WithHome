@@ -6,7 +6,7 @@ function Main_contents() {
   const [count, setCount] = useState(``);
 
   const time = new Date();
-  const term = new Date(`2022-04-03`);
+  const term = new Date(`2022-06-09`);
 
   let diff = term - time;
   const diffDays = Math.floor(
